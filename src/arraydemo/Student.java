@@ -2,6 +2,7 @@ package arraydemo;
 
 public class Student {
     //added first comment
+    //added comment for fetch + merge
     private String studentId;
     private String studentName;
 
@@ -24,7 +25,5 @@ public class Student {
 
     public void setStudentName(String studentName) {
         this.studentName = studentName;
-    }
-    
-    
+    } 
 }
